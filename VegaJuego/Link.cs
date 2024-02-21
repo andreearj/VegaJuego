@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace VegaJuego
 {
+    
     internal class Link : Personaje
     {
         private int salud;
